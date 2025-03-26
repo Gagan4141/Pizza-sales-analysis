@@ -38,4 +38,7 @@ I plan to:
 ✔️ Improve SQL queries for deeper insights  
 ✔️ Automate the data refresh process  
 
+![Pizza Sales Dashboard](pizza_dashboard.png)
+
+
 
