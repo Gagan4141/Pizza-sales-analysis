@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Data Analysis – SQL + Excel Dashboard  
 
 ## 📌 Overview  
-Hey everyone! 👋 This is a simple yet cool data analysis project where I worked with pizza sales data using **SQL & Excel**. I wrote SQL queries to analyze different aspects of sales and then used Excel to create an interactive dashboard for better visualization.  
+Hey everyone! 👋 This is a  data analysis project where I worked with pizza sales data using **SQL & Excel**. I wrote SQL queries to analyze different aspects of sales and then used Excel to create an interactive dashboard for better visualization.  
 
 ## 🔧 Tools Used  
 - **SQL** – To extract, clean, and analyze the pizza sales data  
@@ -15,11 +15,23 @@ Here are some interesting things I found from the data:
 👉 **Worst-Selling Pizza:** The Brie Carre Pizza 😬  
 👉 **Peak Order Time:** 12 PM - 1 PM & 5 PM - 6 PM (mostly on weekends)  
 
-## 🚀 How to Use  
-1️⃣ Run the SQL script to set up the database and insert data  
-2️⃣ Use SQL queries to explore different insights  
-3️⃣ Open the Excel file to check out the interactive dashboard  
+## 🚀 How to Use
 
+Set up the database:
+
+RUN pizza.sql to create Database and table.
+
+Run pizza_sales_corrected_inserts.sql to insert the dataset into your SQL database.
+
+Run pizza_sales.sql to generate insights.
+
+Analyze Data:
+
+Modify SQL queries to dig deeper and find more patterns.
+
+View the Dashboard:
+
+Open Pizza_Sales_Dashboard.xlsx to check out the cool visuals.
 ## 🔮 Future Improvements  
 I plan to:  
 ✔️ Add more visualizations in Power BI  
